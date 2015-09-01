@@ -1,0 +1,46 @@
+﻿using System;
+using System.Data.SqlClient;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+namespace bank
+{
+    public partial class personal : Form
+    {
+        public personal()
+        {
+            InitializeComponent();
+        }
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            label7.Text = Convert.ToString(((long.Parse(textBox1.Text) * 0.10) + long.Parse(textBox1.Text)) / (long.Parse(textBox2.Text)));  
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int y = Class1.account1;
+                string n = Class1.name;
+                SqlConnection s = new SqlConnection(@"Data Source=.\sqlexpress;Initial Catalog=bank1;Integrated Security=True");
+                s.Open();
+                SqlCommand cm = new SqlCommand("insert into loan1(name,account,loan,months,deposit1,amount,interest) values('" + n + "','" + y + "','" + "personal" + "','" +long.Parse( textBox2.Text) + "','" + textBox1.Text + "','" + label7.Text + "','" + "9 %" + "')", s);
+                cm.ExecuteNonQuery();
+                s.Close();
+                MessageBox.Show("successfull.....");
+                this.Close();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

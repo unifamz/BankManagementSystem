@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{81C9C235-0347-49E3-90EF-1F74F1086A7B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>bank</RootNamespace>
+    <AssemblyName>bank</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="10.Designer.cs">
+      <DependentUpon>10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="15.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="15.Designer.cs">
+      <DependentUpon>15.cs</DependentUpon>
+    </Compile>
+    <Compile Include="20.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="20.Designer.cs">
+      <DependentUpon>20.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5.Designer.cs">
+      <DependentUpon>5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BANK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BANK.Designer.cs">
+      <DependentUpon>BANK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="bankDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="closed form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="closed form.Designer.cs">
+      <DependentUpon>closed form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="deposit.Designer.cs">
+      <DependentUpon>deposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detail.Designer.cs">
+      <DependentUpon>detail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employee1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employee1.Designer.cs">
+      <DependentUpon>employee1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fd.Designer.cs">
+      <DependentUpon>fd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loan.Designer.cs">
+      <DependentUpon>loan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login1.Designer.cs">
+      <DependentUpon>login1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="open account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="open account.Designer.cs">
+      <DependentUpon>open account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="personal.Designer.cs">
+      <DependentUpon>personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="study.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="study.Designer.cs">
+      <DependentUpon>study.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trasaction1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trasaction1.Designer.cs">
+      <DependentUpon>trasaction1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vechile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vechile.Designer.cs">
+      <DependentUpon>vechile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view admin report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view admin report.Designer.cs">
+      <DependentUpon>view admin report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view balance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view balance.Designer.cs">
+      <DependentUpon>view balance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.cs">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="welcome1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome1.Designer.cs">
+      <DependentUpon>welcome1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="withdraw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="withdraw.Designer.cs">
+      <DependentUpon>withdraw.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="10.resx">
+      <DependentUpon>10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="15.resx">
+      <DependentUpon>15.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="20.resx">
+      <DependentUpon>20.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5.resx">
+      <DependentUpon>5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BANK.resx">
+      <DependentUpon>BANK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="closed form.resx">
+      <DependentUpon>closed form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="deposit.resx">
+      <DependentUpon>deposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detail.resx">
+      <DependentUpon>detail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employee1.resx">
+      <DependentUpon>employee1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fd.resx">
+      <DependentUpon>fd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loan.resx">
+      <DependentUpon>loan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login1.resx">
+      <DependentUpon>login1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="open account.resx">
+      <DependentUpon>open account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="personal.resx">
+      <DependentUpon>personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="study.resx">
+      <DependentUpon>study.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trasaction1.resx">
+      <DependentUpon>trasaction1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vechile.resx">
+      <DependentUpon>vechile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view admin report.resx">
+      <DependentUpon>view admin report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view balance.resx">
+      <DependentUpon>view balance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome1.resx">
+      <DependentUpon>welcome1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="withdraw.resx">
+      <DependentUpon>withdraw.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="bankDataSet.xsc">
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet.xss">
+      <DependentUpon>bankDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet1.xsc">
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet1.xss">
+      <DependentUpon>bankDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet2.xsc">
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="bankDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>bankDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="bankDataSet2.xss">
+      <DependentUpon>bankDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="abc\Lock.ico" />
+    <None Include="Resources\bank.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\IMG_20130614_134146.jpg" />
+    <None Include="Resources\Lock1.jpg" />
+    <None Include="Resources\Lock.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

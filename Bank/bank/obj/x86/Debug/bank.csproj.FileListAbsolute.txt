@@ -1,0 +1,95 @@
+D:\game\sorav\bank\bank\bin\Debug\bank.exe
+D:\game\sorav\bank\bank\bin\Debug\bank.pdb
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.Properties.Resources.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.exe
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.pdb
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.Form1.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.open_account.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.csprojResolveAssemblyReference.cache
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.deposit.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.withdraw.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.view_admin_report.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.view_balance.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.welcome.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.BANK.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.employee1.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.login1.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.welcome1.resources
+D:\game\sorav\bank\bank\bin\Debug\bank.exe.config
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.trasaction1.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.loan.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.home.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.personal.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.vechile.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.study.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank._5.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.detail.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank.fd.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank._10.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank._15.resources
+D:\game\sorav\bank\bank\obj\x86\Debug\bank._20.resources
+F:\study material\.net soft copy material\bank@\bank\bin\Debug\bank.exe.config
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.exe
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.pdb
+F:\study material\.net soft copy material\bank@\bank\bin\Debug\bank.exe
+F:\study material\.net soft copy material\bank@\bank\bin\Debug\bank.pdb
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank._10.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank._15.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank._20.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank._5.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.BANK.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.deposit.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.detail.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.employee1.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.fd.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.Form1.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.home.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.loan.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.login1.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.open_account.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.personal.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.Properties.Resources.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.study.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.trasaction1.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.vechile.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.view_admin_report.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.view_balance.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.welcome.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.welcome1.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\bank.withdraw.resources
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\study material\.net soft copy material\bank@\bank\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sunny\projects\bank@\bank\bin\Debug\bank.exe.config
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.exe
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.pdb
+D:\sunny\projects\bank@\bank\bin\Debug\bank.exe
+D:\sunny\projects\bank@\bank\bin\Debug\bank.pdb
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.csprojResolveAssemblyReference.cache
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank._10.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank._15.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank._20.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank._5.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.BANK.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.deposit.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.detail.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.employee1.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.fd.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.Form1.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.home.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.loan.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.login1.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.open_account.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.personal.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.Properties.Resources.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.study.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.trasaction1.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.vechile.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.view_admin_report.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.view_balance.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.welcome.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.welcome1.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.withdraw.resources
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.csproj.GenerateResource.Cache
+D:\sunny\projects\bank@\bank\obj\x86\Debug\bank.closed_form.resources
